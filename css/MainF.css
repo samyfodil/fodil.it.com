@@ -1,0 +1,92 @@
+.accordion {
+  background-color: #28728F;
+  color: #FFF;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 17px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #28728F;
+}
+
+.accordion:after {
+  content: '\002B';
+  color: #FFF;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.accordion {
+   font-size:17px;
+   color:#FFF;
+}   
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  color:#000;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.panel h4, h5 {
+   font-weight:bold;
+   color:#000;
+}
+
+.panel p {
+   font-size:17px;
+   color:#000;
+}   
+      
+.panel dl {
+   color:#000;
+   
+}     
+
+.panel dt {
+   font-size:17px; 
+   font-weight:bold;
+}   
+
+.panel dd {
+    /*padding-left:4px;*/
+    font-size:17px;
+}     
+
+.panel ul {
+   /*list-style-type:square;*/
+   color:#000;
+   font-size:16px;
+   padding-left:50px;
+}
+
+.panel ol {
+   list-style-type:square;
+   color:#000;
+   font-size:16px;
+   padding-left:50px;
+}
+   
+.panel li {
+   color:#000;
+   font-size:16px;
+}
+
+.panel hr {
+   border:1px solid #000;
+   width:10%;
+}   
+      

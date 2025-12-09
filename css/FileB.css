@@ -1,0 +1,435 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif, z003;
+  background-color:#FFF;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
+  
+}
+
+hr {
+   border:2px solid #FFFFFF;
+   padding-left: 20px;
+   padding-right: 20px;
+   width: 3%;
+   }
+  
+
+.button {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.botn {
+  background-color: #FF0000; 
+  border: none;
+  color: white;
+  padding: 14px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.botn1 {
+  background-color:#4CAF50; 
+  border: none;
+  color: white;
+  padding: 14px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.botn2 {
+  background-color:#FF0000; 
+  border: none;
+  color: white;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.botn:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.botn1:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.botn2:hover {
+  background-color: #333;
+  color: white;
+}
+
+.container {
+  position: relative;
+  color: white;
+  text-align:center;
+}
+
+.container1 {
+  position: relative;
+  color: white;
+}
+	
+.container1 hr {
+      border:1px solid #FFF; 
+      padding-left:20px; 
+      padding-right:20px; 
+      width:80%;
+}
+
+.container1 h2 {
+       color:#FFFFFF; 
+       font-size: 18px; 
+       text-transform:uppercase;
+       text-align:center;
+}
+
+.container1 h3 {
+    color:#FFFF00;
+    font-size:20px;
+    text-align:center;
+}   
+
+.container1 h4, h5, h6 {
+      font-size:18px;
+      color:#FFFFFF;
+      text-align:center;
+}
+
+.container1 p {
+      color:#FFFFFF; 
+      font-size:16px;
+}   
+
+.container1 li{
+       color:#FFFFFF; 
+       font-size: 16px;
+}
+
+.container1 dt {
+       color:#FFFF00;
+       font-size:18px;
+       font-weight:bold;
+}       
+                         
+.container1  dd{
+       color:#FFFFFF; 
+       font-size:16px;
+}   
+
+.container1  ol {    
+       list-style:square;
+}
+
+.container1 dl {
+        list-style-type: decimal;
+}               
+
+.download {
+      text-align:center;
+}
+                   	
+.cta {
+    color:#FFF;
+    text-align:center;
+}
+
+.cta i {
+   color:#FF0000;
+   font-size:50px;
+}
+
+.cta p {
+   color:#FFF;
+   font-size:16px;
+   font-weight:bold;
+   background-color:#800080;
+   padding:15px;
+  
+}
+
+.cta hr {
+   border:1px solid #51AD51;
+   width:60%;
+}   
+
+.retour {
+	text-align:center;
+}
+
+.retour i {
+     font-size:36px;
+     color:#FFFFFF;
+}
+
+.service-box {
+		text-align:center;
+		}
+.navigation {
+	text-align:center;
+}  
+
+
+.heading {
+   background-color:#1B0D8B; 
+}
+
+.heading img {
+   width:100%; 
+   max-height:400px;
+}
+   
+.heading hr {
+    border:2px solid #FFFFFF;
+    padding-left:20px; 
+    padding-right:20px; 
+    text-align:center; 
+    width:3%;
+}
+
+.heading h4 {
+      color:#FFFFFF; 
+      padding-left:20px; 
+      padding-right:20px; 
+      text-align:center; 
+      text-transform: uppercase;
+}      
+
+.heading h3 {
+      color:#FFFFFF; 
+      padding-left:20px; 
+      padding-right:20px; 
+      text-align:center;
+}
+
+.center {
+	text-align:center;
+}
+
+.tdm dl {color:#333;}
+
+.tdm dt {
+     color:#333;
+     font-size:17px;
+     font-weight:bold;
+     text-transform:uppercase;
+}  
+
+.tdm dd {
+     font-size:16px;
+     color:#000;
+}
+
+.tdm img {
+     width:60px;
+     height:60px; 
+     border-radius:50%;
+     padding:15px; 
+     float:left;
+}     
+
+ .tdm h3 {
+    color:#1E1E93;
+    text-transform:uppercase;
+    text-align:center;
+}
+
+.tdm h4 {
+     color:#333;
+     text-decoration:underline;
+     text-align:left;
+}        
+
+.tdm li {
+     font-size:16px;
+     color:#000;
+}        
+
+.article dt {
+    font-size:17px;
+    font-weight:bold;
+    color:#000;
+    text-transform:uppercase;
+}
+
+.article dd {
+    font-size:16px;
+    color:#000; 
+} 
+
+
+.article ol { 
+       list-style-type:square;
+       margin-left:20px;
+       color:#000;
+}
+
+.article li {
+       font-size:16px;
+       color:#000;
+}
+          
+ 
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+.column h3, h4 {
+    color:#FFFF00; 
+    font-weight:bold;
+}
+
+.column i {
+     font-size:58px;
+     color:#FFFFFF;
+     text-align:center;
+}
+
+.column ol {
+     font-size:12px;
+}
+      
+.column a {
+    color:#FF0000; 
+    font-size:18px; 
+    font-weight:bold;
+    text-decoration:none;
+    text-align:center;
+}         
+
+.column p {
+     font-size:14px; 
+     color:#FFFFFF;
+     text-align:center;
+}
+
+.cta {
+	text-align:center;
+}
+
+.cta p {
+   color:#FFF;
+   font-size:16px;
+   padding-left:10px; 
+   padding-right:10px;
+   font-weight:bold;
+}
+
+.cta hr {
+   border:2px solid #51AD51;
+   width:80%;
+}   
+
+.cta i {
+   color:#00FFFF;
+   font-size:36px;
+}
+
+.icone {
+	text-align:center;
+}
+
+.icone i {
+   color:#FFFFFF;
+   font-size:50px;
+}
+
+.benefits h4, h5, h6 {
+      font-size:18px;
+      color:#FFFFFF;
+      text-align:center;
+}
+      
+.footer {
+    left: 0;
+   bottom: 0;
+   width: 100%; 
+   background-color:#242423;
+   text-align:center; 
+}
+
+.footer p {
+    color:white; 
+    font-size:13px;
+    text-align:center;
+}
+
+.footer hr {
+   border:1px solid #7F7F7F;
+   width: 20%;
+}
+
+.footer i {
+   font-size:36px;
+}
+  
+
+.retour i {
+    color:red;
+    font-size:36px;
+}    
+     
+.icon-bar {
+  margin-left:30%;
+  width:50%;
+  background-color: #000;
+  overflow: auto;
+}
+
+.icon-bar a {
+  margin:0;	
+  float: left;
+  width: 20%;
+  text-align: center;
+  padding: 10px 0;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}  
+
+
+           
+ 
+    
+	
+

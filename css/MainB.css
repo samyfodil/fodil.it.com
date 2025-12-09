@@ -1,0 +1,405 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif, z003;
+  background-color:#FFF;
+  /*background-color:#FBFCFA;*/
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
+  
+}
+
+hr {
+   border:2px solid #FFFFFF;
+   padding-left: 20px;
+   padding-right: 20px;
+   width: 3%;
+   }
+  
+
+.button {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.botn {
+  background-color: #FF0000; 
+  border: none;
+  color: white;
+  padding: 14px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.botn1 {
+  background-color:#4CAF50; 
+  border: none;
+  color: white;
+  padding: 14px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.botn2 {
+  background-color:#FF0000; 
+  border: none;
+  color: white;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.botn:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.botn1:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.botn2:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.container {
+  position: relative;
+  color: white;
+  text-align:center;
+}
+
+.container1 {
+  position: relative;
+  color: white;
+}
+	
+.container1 hr {
+      border:1px solid #FFF; 
+      padding-left:20px; 
+      padding-right:20px; 
+      width:80%;
+}
+
+.container1 h2 {
+       color:#FFFFFF; 
+       font-size: 18px; 
+       text-transform:uppercase;
+       text-align:center;
+}
+
+.container1 h3 {
+    color:#FFFF00;
+    font-size:20px;
+    text-align:center;
+}   
+
+.container1 h4, h5, h6 {
+      font-size:18px;
+      color:#FFFFFF;
+      text-align:center;
+}
+
+.container1 p {
+      color:#FFFFFF; 
+      font-size:16px;
+}   
+
+.container1 li{
+       color:#FFFFFF; 
+       font-size: 16px;
+}
+
+.container1 dt {
+       color:#FFFF00;
+       font-size:18px;
+       font-weight:bold;
+}       
+                         
+.container1  dd{
+       color:#FFFFFF; 
+       font-size:16px;
+}   
+
+.container1  ol {    
+       list-style:square;
+}
+
+.container1 dl {
+        list-style-type: decimal;
+}               
+
+.download {
+      text-align:center;
+}
+                   	
+.cta {
+	text-align:center;
+}
+
+.cta h5, h6 {
+     color:#FFFFFF; 
+     font-size:16px; 
+     font-weight:bold; 
+     text-align:center;
+}
+
+.cta p {
+     color:#FFFFFF; 
+     font-size:16px; 
+     font-weight:bold; 
+     text-align:center;
+}
+.cta i {
+     font-size:48px;
+     color:#FFFFFF;
+     text-align:center;
+}   
+
+.retour {
+	text-align:center;
+}
+
+.retour i {
+     font-size:36px;
+     color:#FFFFFF;
+}
+
+.service-box {
+		text-align:center;
+		}
+.navigation {
+	text-align:center;
+}  
+
+
+.entete {
+    overflow:hidden;
+    background-color: #F8F8FF;
+    padding-top:5px;  
+    padding-bottom:5px;
+    border-color:8px solid #F8F8FF; 
+    text-align:center;
+}  
+
+.entete a {
+      font-size:15px; 
+      color:#FFFFFF; 
+      font-weight:bold;
+      text-decoration:none;
+}      
+
+.entete a:hover {
+      background-color: none;
+      color:#FFFF00;
+}
+
+.entete img {
+      width:180px;
+      height:90px;
+}  
+
+.entete h1 {
+      color:#FFF;
+      font-family: arial;
+      text-shadow: 3px 3px 3px #ababab;
+      font-style:normal;
+      font-size:16px; 
+}            
+
+.entete img {
+      width:180px;
+      height:80px;
+      text-align:center;
+}     
+
+.heading {
+   /*background-color:#E5E5E5;*/ 
+   width:100%; 
+   max-height:400px
+}
+
+.heading img {
+   width:100%; 
+   max-height:400px;
+}
+   
+.heading hr {
+    border:2px solid #FFFFFF;
+    padding-left:20px; 
+    padding-right:20px; 
+    text-align:center; 
+    width:3%;
+}
+
+.heading h4 {
+      color:#FFFFFF; 
+      padding-left:20px; 
+      padding-right:20px; 
+      text-align:center; 
+      text-transform: uppercase;
+}      
+
+.heading h3 {
+      color:#FFFFFF; 
+      padding-left:20px; 
+      padding-right:20px; 
+      text-align:center;
+}
+
+.center {
+	text-align:center;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+.column h3, h4 {
+    color:#FFFF00; 
+    font-weight:bold;
+}
+
+.column i {
+     font-size:58px;
+     color:#FFFFFF;
+     text-align:center;
+}
+
+.column ol {
+     font-size:12px;
+}
+      
+.column a {
+    color:#FF0000; 
+    font-size:18px; 
+    font-weight:bold;
+    text-decoration:none;
+    text-align:center;
+}         
+
+.column p {
+     font-size:14px; 
+     color:#FFFFFF;
+     text-align:center;
+}
+
+.cta {
+	text-align:center;
+}
+
+.cta i {
+   color:#00FFFF;
+   font-size:36px;
+}
+
+.icone {
+	text-align:center;
+}
+
+.icone i {
+   color:#FFFFFF;
+   font-size:50px;
+}
+
+.benefits h4, h5, h6 {
+      font-size:18px;
+      color:#FFFFFF;
+      text-align:center;
+}
+      
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: #FFFFFF;
+   text-align: center;
+}
+
+.footer p {
+    color:white; 
+    font-size:13px;
+    /*font-style:oblique;*/ 
+    text-align:center;
+}
+
+.footer hr {
+   border:1px solid #4D4D4D;
+   width: 20%;
+   /*margin-left:30%;
+   margin-right:30%;*/
+   
+}
+
+.footer i {
+   font-size:36px;
+}
+  
+
+.retour i {
+    color:red;
+    font-size:36px;
+}    
+     
+.icon-bar {
+  margin-left:30%;
+  width:50%;
+  background-color: #000;
+  overflow: auto;
+}
+
+.icon-bar a {
+  margin:0;	
+  float: left;
+  width: 20%;
+  text-align: center;
+  padding: 10px 0;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}  
+
+
+           
+ 
+    
+	
+
